@@ -5,4 +5,4 @@ for i in range(365):
         res *= 1 + ratio
     else:
         res *= 1 - ratio
-print(f"结果：{res:.2f}")
+print(f"结果：{res:}")
